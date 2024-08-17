@@ -17,9 +17,8 @@ This project explores various machine learning techniques to predict the surviva
   - [Multi-Layer Perceptron (MLP)](#multi-layer-perceptron-mlp)
 - [Model Evaluation](#model-evaluation)
 - [Conclusion](#conclusion)
-- [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
+
 
 ## Introduction
 
@@ -74,8 +73,3 @@ The models are evaluated using:
 
 To run this project, you need Python 3.x and the required packages.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
